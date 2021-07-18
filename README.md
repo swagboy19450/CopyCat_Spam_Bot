@@ -1,6 +1,6 @@
 # Owner  - @My_Love_Coming_Near
 
-# Copycat Spam Bot ( Modified Version Of Catuserbot )
+# Copycat Spam Bot
 
 <p align="center">
   <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
