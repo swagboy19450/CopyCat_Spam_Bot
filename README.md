@@ -3,7 +3,7 @@
 # Copycat Spam Bot
 
 <p align="center">
-  <img src="https://telegra.ph/file/9daafeb39193a4a22ee5c.jpg">
+  <img src="https://telegra.ph/file/5bb2ae9514d561c440879.jpg">
 </p>
 
 ## 🚀 Deploy on Heroku 
