@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot.git /root/userbot
+RUN git clone https://github.com/Copycat-izz-opp/Copycat_Spam_Hero.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
