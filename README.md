@@ -17,9 +17,8 @@ No Requirement of API ID and API HASH
 
 ## 🚀 Self Deploy
 ```sh
-$ git clone https://github.com/YukkiBot/YukkiSpamBot
-
-$ cd YukkiSpamBot
+$ git clone https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot
+$ cd CopyCat_Spam_Bot
 
 $ pip3 install -U -r requirements.txt
 
