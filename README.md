@@ -1,3 +1,5 @@
+# Owner And Fork By - @My_Love_Coming_Near
+
 # Yukki Spam Bot ( Modified Version Of Catuserbot )
 
 <p align="center">
@@ -31,7 +33,4 @@ $ python3 -m userbot
 
 ```  
 ## Support Group
-   - Join [Yukki Support Group](https://t.me/officialyukki) for any assistance.
-## Credits
-   - Special credits to [Cat Userbot](https://github.com/sandy1709/catuserbot).
-   - Thanks to [Yukki Team](https://t.me/officialyukki).
+   - Join [ @Lovers_Match ]
