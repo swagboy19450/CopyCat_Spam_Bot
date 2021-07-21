@@ -32,5 +32,5 @@ $ python3 -m userbot
 
 ```  
 ## Support Group
-   - Telegram Group [ @Lovers_Match ]
-- Support Group [ @Copycat_Spam_Bot ]
+  - Telegram Group [ @Lovers_Match ]
+   - Support Group [ @Copycat_Spam_Bot ]
