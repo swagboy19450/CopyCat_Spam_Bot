@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/Copycat_Spam_Hero)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot)
 
 ## String Session
 No Requirement of API ID and API HASH
