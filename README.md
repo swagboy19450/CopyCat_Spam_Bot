@@ -1,4 +1,4 @@
-# Owner  - [『#Copycat』] (https://t.me/My_Love_Coming_Near)
+# Owner  - [『#Copycat』](https://t.me/My_Love_Coming_Near)
 
 # Copycat Spam Bot
 
