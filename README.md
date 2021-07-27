@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://telegra.ph/file/5bb2ae9514d561c440879.jpg)](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot)
+[![Deploy](https://telegra.ph/file/5bb2ae9514d561c440879.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot)
 
 ## String Session
 No Requirement of API ID and API HASH
@@ -32,6 +32,6 @@ $ python3 -m userbot
 
 ```  
 ## Support Group
-  - Telegram Group [『Copycat Group』 ] (https://t.me/Lovers_Match)
+  - Telegram Group [『Copycat Group』 ](https://t.me/Lovers_Match)
    - Support Group [ @Copycat_Spam_Bot ]
    _ Op bot
