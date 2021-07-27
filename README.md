@@ -6,14 +6,15 @@
   <img src="https://telegra.ph/file/5bb2ae9514d561c440879.jpg">
 </p>
 
-## 🚀 Deploy on Heroku 
-[![Deploy](https://telegra.ph/file/5bb2ae9514d561c440879.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot)
 
 ## String Session
 No Requirement of API ID and API HASH
 
    - Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@YukkiBot/YukkiSpamBot)
    - Termux : `sh -c "$(curl -fsSL https://da.gd/YukkiBot)"` (Use `python string_session.py` next time to generate another string.)
+
+## 🚀 Deploy on Heroku 
+[![Deploy](https://telegra.ph/file/b5e9a341e2c75ad85183f.jpg)](https://dashboard.heroku.com/new?template=https://github.com/Copycat-izz-opp/CopyCat_Spam_Bot)
 
 ## 🚀 Self Deploy
 ```sh
