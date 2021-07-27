@@ -34,5 +34,5 @@ $ python3 -m userbot
 ```  
 ## Support Group
   - Telegram Group [『Copycat Group』 ](https://t.me/Lovers_Match)
-   - Support Group [ @Copycat_Spam_Bot ]
-   _ Op bot
+   - Support Group [ Helping Group ](https://t.me/Copycat_Spam_Bot)
+   
