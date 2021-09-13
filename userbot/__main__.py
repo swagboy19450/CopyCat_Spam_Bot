@@ -58,21 +58,21 @@ for name in files:
             os.remove(Path(f"userbot/plugins/{shortname}.py"))
             LOGS.info(f"unable to load {shortname} because of error {e}")
 
-LOGS.info("Copycat spam userbot is officially working.!!!")
+LOGS.info("Blaze spam userbot is officially working.!!!")
 LOGS.info(
     "Congratulation, now type .ping to see message if bot is live\
-    \nIf you need assistance, head to https://t.me/Lovers_Match"
+    \nIf you need assistance, head to https://t.me/HEART_BEAT_01"
 )
 
 
 async def startupmessage():
-    await bot(functions.channels.JoinChannelRequest(channel="@Lovers_Match"))
+    await bot(functions.channels.JoinChannelRequest(channel="@HEART_BEAT_01"))
     try:
         if Config.PRIVATE_GROUP_BOT_API_ID != 0:
             await bot.send_message(
                 Config.PRIVATE_GROUP_BOT_API_ID,
                 "**Congratulation, now type .ping to see message if bot is live\
-        \nIf you need assistance, **head to https://t.me/Lovers_Match",
+        \nIf you need assistance, **head to https://t.me/HEART_BEAT_01",
                 link_preview=False,
             )
     except Exception as e:
